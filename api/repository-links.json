@@ -226,9 +226,24 @@
     "source": "search"
   },
   "Distributed and Unified Numerics Environment (DUNE)": {
-    "repositories": [],
-    "organizationProfile": "https://www.google.com/search?q=Distributed%20and%20Unified%20Numerics%20Environment%20(DUNE)%20source%20code%20repository",
-    "source": "search"
+    "repositories": [
+      {
+        "label": "DUNE core modules",
+        "url": "https://gitlab.dune-project.org/core",
+        "host": "Self-hosted Git",
+        "verified": true,
+        "lastChecked": "2026-11-08"
+      },
+      {
+        "label": "dune-common",
+        "url": "https://gitlab.dune-project.org/core/dune-common",
+        "host": "Self-hosted Git",
+        "verified": true,
+        "lastChecked": "2026-11-08"
+      }
+    ],
+    "organizationProfile": "https://gitlab.dune-project.org/core",
+    "source": "manual"
   },
   "Django Software Foundation": {
     "repositories": [
