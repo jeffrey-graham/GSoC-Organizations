@@ -56,12 +56,24 @@ Select a participation year to browse its completed projects and open the corres
 
 The website is generated from version-controlled GSoC archive snapshots. Organization data and logos are prepared at build time, allowing the deployed site to remain static and fast.
 
+## Contributing
+
+Contributions are welcome. Read the [contributing guide](./CONTRIBUTING.md) for
+local setup, pull-request expectations, and the beginner-friendly workflow for
+verifying missing organization repository links.
+
+First-time contributors sign the [Contributor License Agreement](./CLA.md)
+before their first merge. Contributors with five meaningful merged pull
+requests may apply to the [collaborator program](./COLLABORATOR_PROGRAM.md).
+
+See the [changelog](./CHANGELOG.md) for release history.
+
 ## Disclaimer
 
 This is an independent community project and is not affiliated with or endorsed by Google. Google Summer of Code is a Google program.
 
 ## License
 
-Copyright © 2026 Rohan Malhotra. All rights reserved.
+Copyright © 2026 Rohan Malhotra.
 
-This is proprietary source-available software, not open-source software. Copying, modification, redistribution, republication, or deployment is prohibited without prior written permission. See the [LICENSE](./LICENSE) file for the complete terms.
+This project uses the [GSoC Organizations Noncommercial Community Source License](./LICENSE). You may fork and modify the code only to prepare contributions for this repository. Commercial use, redistribution, independent deployment, and copied or substantially similar websites are prohibited without prior written permission.
